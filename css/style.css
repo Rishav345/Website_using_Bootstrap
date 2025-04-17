@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Inter", sans-serif;
+}
+.head{
+    box-shadow: 0px 4px 10px 0px #e7e8e882
+}
+.whatsappbtn{
+    padding: 5px 10px;
+    font-weight: 600;
+}
+.whatsappbtn i {
+    padding: 5px;
+}
+.Cbtn{
+    font-weight: 600;
+    padding: 5px 13px;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    background : linear-gradient(to right,#0ACEFE,#2699FB );
+    box-shadow: 0px 4px 10px 0px #2c94f043
+}
+.BannerCont h1{
+    padding-top: 20px;
+    font-size: 52px;
+    font-weight: 700;
+}
+.BannerCont h1 span{
+    color: #2699FB;
+}
+.BannerCont p{
+    margin-top: 15px;
+    font-size: 21px;
+    font-weight: 400px;
+}
+.BannerCont ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.BannerCont ul li{
+    font-size: 19px;
+    font-weight: 400px;
+    margin-bottom: 16px;
+}
+.BannerCont ul li i{
+    color: #2699FB;
+    margin-right: 5px;
+}
+.BannerContbtn button{
+    width: 50%;
+    margin-top: 28px;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    
+}
+.BannerContbtn button:first-child{
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    color: white;
+    font-weight: 700;
+    box-shadow: 0px 4px 10px 0px #2c96f082
+}
+
+.BannerContbtn button:first-child:hover{
+    transform: scale(1.01);
+}
+.BannerContbtn button:nth-child(2){
+    background: transparent;
+    border: 2px solid rgb(199, 197, 197);
+    font-weight: 450;
+    box-shadow: 1px 1px 2px 1px #9191911f
+}
+.BannerContbtn button:nth-child(2) i{
+    padding-right: 5px;
+}
+.bannerform{
+    padding: 40px;
+    border-radius: 8px;    
+    box-shadow: 1px 2px 4px 4px #9191911f;
+}
+.bannerform h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+.bannerform p {
+    font-size: 13px;
+    width: 80%;
+    /* opacity: 70%; */
+}
+.formbtn button{
+    width: 100%;
+    padding: 10px;
+    margin-top: 30px;
+    border:none;
+    border-radius: 8px;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    color: white;
+    font-weight: 700;
+    box-shadow: 0px 4px 10px 0px #2c96f082
+}
+.ST h2{
+    color: #2699FB;
+    font-weight: 700;
+    font-size: 22px;
+}
+.ST p{
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+.highlightSec{
+    background-color: #ecf2fc;
+}
+.KH h2{
+    font-size: 30px;
+    font-weight: 700;
+}
+.KH p{
+    font-size: 15px;
+}
+.highI h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+.highI p{
+    font-size: 13px;
+}
+.hbtn button{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    width: 30%;
+    margin-top: 28px;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    font-size: 20px;
+}
+.ig{
+    z-index: -1;
+}
+.TCbox{
+    width: 90%;
+    border-radius: 8px;
+}
+.TCboxi img{
+    width: 56px;
+}
+.TCtext p{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.TCboxt h3{
+    font-size: 15px;
+}
+.TCboxt p{
+    font-size: 12px;
+}
+.faq{
+    background-color: #ecf2fc;
+}

@@ -1,0 +1,59 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+
+    .btnright{
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        justify-content: center !important;
+        background: white;
+        z-index: 10;
+        padding: 10px;
+    }
+    .BannerCont h1{
+        font-size: 30px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .BannerCont p{
+        font-size: 15px;
+    }
+    .BannerCont ul li{
+        font-size: 15px;
+    }
+    .BannerContbtn{
+        flex-direction: column;
+    }
+    .BannerContbtn button{
+        width: 100%;
+        margin-top: 1px;
+        padding: 15px;
+        border: none;
+        border-radius: 8px;
+        font-size: 15px;
+        
+    }
+    .ST p{
+        margin-bottom: 20px;
+    }
+    .KH h2{
+        font-size: 22px;
+        font-weight: 700;
+    }
+    .KH p{
+        font-size: 12px;
+    }
+    .hbtn button{
+        width: 100%;
+    }
+    .accordion-button{
+        z-index: 0;
+    }
+
+}
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}
